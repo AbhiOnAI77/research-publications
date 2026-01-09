@@ -22,7 +22,7 @@ My work focuses on translating complex data (including unstructured text, satell
 
 ## Management Research Publications 
 
-### ** (1) Differences in Digital Posturing: Evidence from Family and Non-Family Firms in India** †  
+### (1) Differences in Digital Posturing: Evidence from Family and Non-Family Firms in India †  
 **Conference:** 44th Annual Strategic Management Society (SMS), Istanbul, Turkey (2024)
 [Co-Author]
 
@@ -38,7 +38,7 @@ This study examines how firms account for varying levels of aspiration and dispa
 
 ---
 
-### ** (2) Heterogeneity in Digital Posture of Family Firms in Emerging Economies** †  
+### (2) Heterogeneity in Digital Posture of Family Firms in Emerging Economies †  
 **Conference:** CTO Division, 84th Annual Academy of Management (AOM), Chicago, USA (2024)
 [Co-Author]
 
@@ -55,7 +55,7 @@ This paper analyzes the impact of business group affiliation, family clout and f
 
 ## Macroeconomics & Location Intelligence Research
 
-### **Precipitation and House Price Expectations: Evidence from Survey Data**  
+### (3) Precipitation and House Price Expectations: Evidence from Survey Data 
 **Journal:** *Spatial Economic Analysis* (Q1-Ranked) — **Accepted (2025)**
 [Co-Author]
 
@@ -71,7 +71,7 @@ This paper examines how precipitation, as a visual climatic cue, impacts three-m
 
 ---
 
-### **Shedding Light on Consumer Sentiments: Evidence from India** †  
+### (4) Shedding Light on Consumer Sentiments: Evidence from India †  
 **Journal:** *Spatial Economic Analysis* (Q1-Ranked) — **Accepted (2024)** 
 [Acknowledged for directing remotely-sensed data collection] 
 
@@ -106,6 +106,6 @@ This study uses monthly satellite data on night-time lights from 13 cities in In
 
 ---
 
-## 🔗 Notes
+## Notes
 - † Reference links available upon request
 - Conference presentations and journal submissions reflect peer-reviewed acceptance
