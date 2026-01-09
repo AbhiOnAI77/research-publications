@@ -27,9 +27,11 @@ My work focuses on translating complex data (including unstructured text, satell
 [Co-Author]
 
 **Research Summary**  
+
 This study examines how firms account for varying levels of aspiration and disparities in past performance to convey their focus of digital technologies and evaluate its influence on firms’ strategic decisions and behaviour towards financial markets.
 
 **Methods & Tools**
+
 - Econometrics: Random Effects, FGLS, Instrumental Variable (IV) Regression *(Stata)*
 - Causal Analysis: Moderation & Mediation
 - Machine Learning & NLP:
@@ -42,10 +44,12 @@ This study examines how firms account for varying levels of aspiration and dispa
 **Conference:** CTO Division, 84th Annual Academy of Management (AOM), Chicago, USA (2024)
 [Co-Author]
 
-**Research Summary**  
+**Research Summary** 
+
 This paper analyzes the impact of business group affiliation, family clout and foreign promoter shareholding on firms’ competitive advantage in highlighting their focus of digital technologies through annual reports.
 
 **Methods & Tools**
+
 - Econometrics: Fixed Effects, FGLS, GMM *(Stata)*
 - Machine Learning & NLP:
   - Lexical & Semantic Text Analysis
@@ -60,9 +64,11 @@ This paper analyzes the impact of business group affiliation, family clout and f
 [Co-Author]
 
 **Research Summary**  
+
 This paper examines how precipitation, as a visual climatic cue, impacts three-month and one-year ahead housing inflation expectations across 18 cities in India and further uses aerial data to test the moderating role of organic city-level growth.
 
 **Methods & Tools**
+
 - Econometrics: Fixed & Random Effects Models *(Stata)*
 - Robustness: IV-FE Regression for endogeneity
 - Geospatial & Cartographic Analysis:
@@ -76,9 +82,11 @@ This paper examines how precipitation, as a visual climatic cue, impacts three-m
 [Acknowledged for directing remotely-sensed data collection] 
 
 **Research Summary**  
+
 This study uses monthly satellite data on night-time lights from 13 cities in India to examine how local economic activity impacts consumer confidence regarding income, spending, employment and general prices at the household level.
 
 **Methods & Tools**
+
 - Econometrics: Fixed Effects Regression *(Stata)*
 - Model Validation: Train–Test Split, Mean Squared Error (MSE)
 - Advanced Techniques: Interaction Terms, Moderation, Dynamic Coefficients
